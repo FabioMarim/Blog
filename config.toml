@@ -1,5 +1,5 @@
 baseURL = "https://fabiomarim.netlify.app/"
-title   = "A little about myself"
+title   = "Hello, I'm Fabio Marim"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Blog sobre mim"
+  description = "About me blog"
   keywords = ""
   images = [""]
 
@@ -134,7 +134,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoText     = "$ Back to start/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -158,31 +158,31 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   #
-  # [params.portrait]
-  #   path     = "/img/curriculoimg.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+   [params.portrait]
+     path     = "/img/curriculoimg.jpeg"
+     alt      = "Portrait"
+     maxWidth = "150px"
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/fabio-marim-a2a5661b0/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:fabiomarim.eng@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/FabioMarim"
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    name = "instagram"
+    url  = "https://www.instagram.com/ofabiomarim/"
 
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "twitter"
+    url  = "https://twitter.com/musicaliz0u"
 
 [languages]
   [languages.en]
@@ -198,9 +198,9 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "Development"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
+    name       = "About Me"
     url        = "posts/"
