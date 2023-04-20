@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title   = "Hello Friend NG"
+baseURL = "https://fabiomarim.netlify.app/"
+title   = "A little about myself"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Fabio Marim"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -55,13 +55,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Blog sobre mim"
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Where can you find me"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -159,7 +159,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   # [params.portrait]
-  #   path     = "/img/image.jpg"
+  #   path     = "/img/curriculoimg.jpg"
   #   alt      = "Portrait"
   #   maxWidth = "50px"
 
