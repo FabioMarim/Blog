@@ -1,19 +1,15 @@
 +++
-title = "About"
-date = "2014-04-09"
+title = "Why did I decide to create this blog?"
+date = "2023-21-04"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Fabio Marim"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+I will use this space to talk about technology, as well as to share stories about my college research, articles, and other technology-related topics. But why?
 
-It makes use of a variety of open source projects including:
+>*I believe that science and technology have the potential to achieve unimaginable factors and transform the world we live in.*
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+**I hope you enjoy and feel comfortable being here with me, enjoying these topics. Let's explore the wonders of technology together and discover how it can help us shape a better and brighter future!**
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## bye, see you later
